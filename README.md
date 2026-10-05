@@ -23,4 +23,4 @@ It's a single `index.html` file with no build step. Open it in a browser.
 
 ## License
 
-Copyright (c) 2026 Evan Gilb. All rights reserved.
+Copyright (c) 2026 Evan Gilb. All rights reserved. See [LICENSE](LICENSE). The code is public so it can be viewed, but it may not be copied, reused, or redistributed without permission.
